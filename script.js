@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const username = document.getElementById("username").value;
     const password = document.getElementById("password").value;
 
-    if (username === "c" && password === "c") {
+    if (username === "teh ajriya c" && password === "c") {
       document.getElementById("login-section").classList.remove("active");
       document.getElementById("main-content").style.display = "block";
       updateBackground(1); // Set background for section 1
